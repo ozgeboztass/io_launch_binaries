@@ -1,5 +1,10 @@
 # IO-Net Official Binaries
 
+- [Türkçe ](readmeTR.md)
+- [Русский ](readmeRU.md)
+- [Français ](readmeFR.md)
+- [Deutsch ](readmeRU.md)
+
 This repository contains official binaries for the io.net - Follow the instructions below to set up and run the binaries on your respective operating system.
 
 ## Prerequisites
